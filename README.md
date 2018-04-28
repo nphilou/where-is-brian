@@ -13,7 +13,7 @@ More details here : http://cap2018.litislab.fr/competition-en.html
 * [Philippe Nguyen](https://github.com/nphilou)
 * [Charles Nourry](https://github.com/charlienourr)
 
-## Installation
+## Installation
 
 Install **virtualenv**
 ```bash
